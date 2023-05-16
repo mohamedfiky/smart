@@ -268,9 +268,7 @@ transform: translateY(-50%);
     color:#fff;
 }
 
-.hero-image .header .links li a:hover,
-.hero-image .header .links li a.active
-{
+.hero-image .header .links li a:hover{
     color: var(--main-color);
 }
 
@@ -317,9 +315,7 @@ transform: translateY(-50%);
     padding: 10px;
 }
 
-.hero-image .header .links.opened a:hover,
-.hero-image .header .links.opened a.active
-{
+.hero-image .header .links.opened a:hover{
     color: #fff;
     background-color: var(--main-color);
 }
