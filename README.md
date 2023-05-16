@@ -1,4 +1,4 @@
-# Smart Ways
+# Smart One
 
 ### A portfolio website ( Landing Page ).
 
